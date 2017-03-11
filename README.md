@@ -1,6 +1,12 @@
-## Build 7
-<a href='itms-services://?action=download-manifest&url=https://kamigami.e39a562r.tw/public/amaze/7/manifest.plist'>DOWNLOAD</a>
+## Build 8
 
+<a href='itms-services://?action=download-manifest&url=https://kamigami.e39a562r.tw/public/amaze/8/manifest.plist'> 按這下載 </a>
+
+#### Changes
+- 重新打包
+
+
+## Build 7
 #### Changes
 - 加入重新整理按鈕
 - 修正 progress bar 不見的問題
@@ -10,8 +16,6 @@
 
 
 ## Build 5
-<a href='itms-services://?action=download-manifest&url=https://kamigami.e39a562r.tw/public/amaze/5/manifest.plist'>DOWNLOAD</a>
-
 #### Changes
 - 忘了
 
