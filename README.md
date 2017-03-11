@@ -1,3 +1,10 @@
+## Build 9
+
+<a href='itms-services://?action=download-manifest&url=https://kamigami.e39a562r.tw/public/amaze/9/manifest.plist'> 按這下載 </a>
+
+#### Changes
+- 修正連結產品詳細頁連結導向攔截邏輯
+
 ## Build 8
 
 <a href='itms-services://?action=download-manifest&url=https://kamigami.e39a562r.tw/public/amaze/8/manifest.plist'> 按這下載 </a>
