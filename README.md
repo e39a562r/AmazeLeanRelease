@@ -1,5 +1,5 @@
 
-<a href='itms-services://?action=download-manifest&url=https://kamigami.e39a562r.tw/public/amaze/10/manifest.plist'> 按這下載 </a>
+<a href='itms-services://?action=download-manifest&url=https://kamigami.e39a562r.tw/public/amaze/10/manifest.plist'> 按這下載 Build 10 </a>
 
 ## Build 10
 
