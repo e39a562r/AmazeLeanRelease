@@ -1,6 +1,12 @@
-## Build 9
 
-<a href='itms-services://?action=download-manifest&url=https://kamigami.e39a562r.tw/public/amaze/9/manifest.plist'> 按這下載 </a>
+<a href='itms-services://?action=download-manifest&url=https://kamigami.e39a562r.tw/public/amaze/10/manifest.plist'> 按這下載 </a>
+
+## Build 10
+
+#### Changes
+- 避免fb tracking 一直跳出 safari
+
+## Build 9
 
 #### Changes
 - 修正連結產品詳細頁連結導向攔截邏輯
