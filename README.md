@@ -1,5 +1,10 @@
 
-<a href='itms-services://?action=download-manifest&url=https://kamigami.e39a562r.tw/public/amaze/10/manifest.plist'> 按這下載 Build 10 </a>
+<a href='itms-services://?action=download-manifest&url=https://kamigami.e39a562r.tw/public/amaze/11/manifest.plist'> 按這下載 Build 11 </a>
+
+## Build 11
+
+#### Changes
+- 調整加入租衣籃
 
 ## Build 10
 
