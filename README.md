@@ -1,5 +1,11 @@
 
-<a href='itms-services://?action=download-manifest&url=https://kamigami.e39a562r.tw/public/amaze/11/manifest.plist'> 按這下載 Build 11 </a>
+<a href='itms-services://?action=download-manifest&url=https://kamigami.e39a562r.tw/public/amaze/13/manifest.plist'> 按這下載 Build 13 </a>
+
+## Build 13
+
+#### Changes
+- 增加願望清單
+- 推播測試
 
 ## Build 11
 
