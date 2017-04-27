@@ -1,7 +1,7 @@
-
+### DOWNLOAD
 <a href='itms-services://?action=download-manifest&url=https://kamigami.e39a562r.tw/public/amaze/13/manifest.plist'> 按這下載 Build 13 </a>
 
-## CHANGELOG
+### CHANGELOG
 
 #### Build 13
 - 增加願望清單
@@ -11,7 +11,7 @@
 - 忘了改版號
 
 #### Build 11
-- 調整加入租衣籃
+- 調整加入衣服到租衣籃的code
 
 #### Build 10
 - 避免fb tracking 一直跳出 safari
