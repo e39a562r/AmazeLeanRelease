@@ -4,7 +4,9 @@
 ### CHANGELOG
 
 #### Build 13
-- 增加願望清單
+- 現在會用爬蟲的方式去更換願望清單、租衣籃的 icon
+- 所有網址規則修正為 case insensitive
+- 增加願望清單 scene
 - 推播測試
 
 #### Build 12
