@@ -1,7 +1,10 @@
 ### DOWNLOAD
-<a href='itms-services://?action=download-manifest&url=https://kamigami.e39a562r.tw/public/amaze/13/manifest.plist'> 按這下載 Build 13 </a>
+<a href='itms-services://?action=download-manifest&url=https://kamigami.e39a562r.tw/public/amaze/14/manifest.plist'> 按這下載 Build 14 </a>
 
 ### CHANGELOG
+
+#### Build 14
+- 推播測試用
 
 #### Build 13
 - 現在會用爬蟲的方式去更換願望清單、租衣籃的 icon
