@@ -1,7 +1,10 @@
 ### DOWNLOAD
-<a href='itms-services://?action=download-manifest&url=https://kamigami.e39a562r.tw/public/amaze/14/manifest.plist'> 按這下載 Build 14 </a>
+<a href='itms-services://?action=download-manifest&url=https://kamigami.e39a562r.tw/public/amaze/15/manifest.plist'> 按這下載 Build 15 </a>
 
 ### CHANGELOG
+
+#### Build 15
+- 推播測試用
 
 #### Build 14
 - 推播測試用
