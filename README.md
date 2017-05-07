@@ -1,7 +1,13 @@
 ### DOWNLOAD
-<a href='itms-services://?action=download-manifest&url=https://kamigami.e39a562r.tw/public/amaze/15/manifest.plist'> 按這下載 Build 15 </a>
+<a href='itms-services://?action=download-manifest&url=https://kamigami.e39a562r.tw/public/amaze/16/manifest.plist'> 按這下載 Build 16 </a>
 
 ### CHANGELOG
+
+#### Build 16
+- 推播測試用
+- 現在OBJ-C層收到推播的時候會跳出訊息
+- 修正購物車與願望清單圖片路徑的問題
+- 修正分享到 line 的問題
 
 #### Build 15
 - 推播測試用
