@@ -1,9 +1,12 @@
 [![Coverage Status](https://coveralls.io/repos/github/e39a562r/AmazeLeanRelease/badge.svg?branch=master)](https://coveralls.io/github/e39a562r/AmazeLeanRelease?branch=master)
 
 ### DOWNLOAD
-<a href='itms-services://?action=download-manifest&url=https://kamigami.e39a562r.tw/public/amaze/17/manifest.plist'> 按這下載 Build 17 </a>
+<a href='itms-services://?action=download-manifest&url=https://kamigami.e39a562r.tw/public/amaze/18/manifest.plist'> 按這下載 Build 18 </a>
 
 ### CHANGELOG
+
+#### Build 18
+- 不在透過網路拉籃子跟心心以免不知道為什麼出不來
 
 #### Build 17
 - 改 Nav
