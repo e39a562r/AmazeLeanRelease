@@ -1,9 +1,12 @@
 [![Coverage Status](https://coveralls.io/repos/github/e39a562r/AmazeLeanRelease/badge.svg?branch=master)](https://coveralls.io/github/e39a562r/AmazeLeanRelease?branch=master)
 
 ### DOWNLOAD
-<a href='itms-services://?action=download-manifest&url=https://kamigami.e39a562r.tw/public/amaze/18/manifest.plist'> 按這下載 Build 18 </a>
+<a href='itms-services://?action=download-manifest&url=https://kamigami.e39a562r.tw/public/amaze/19/manifest.plist'> 按這下載 Build 19 </a>
 
 ### CHANGELOG
+
+#### Build 19
+- 上 icon
 
 #### Build 18
 - 不再透過網路拉籃子跟心心以免不知道為什麼出不來
